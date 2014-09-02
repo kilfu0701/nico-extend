@@ -17,6 +17,7 @@
     "fileBrowserHandler",
     "fileSystem",
     "notifications",
-    "storage"
+    "storage",
+    "http://*.nicovideo.jp/*"
   ]
 }
